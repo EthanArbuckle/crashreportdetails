@@ -1,0 +1,9 @@
+Package: com.ethanarbuckle.crashreportdetails
+Name: crashreportdetails
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ethanarbuckle
+Author: ethanarbuckle
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
