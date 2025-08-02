@@ -1,4 +1,4 @@
-ARCHS = arm64
+ARCHS = arm64 arm64e
 
 TARGET := iphone:clang:latest:16.5
 INSTALL_TARGET_PROCESSES = ReportCrash
